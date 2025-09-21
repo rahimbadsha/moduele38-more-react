@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "price": 1.5,
+    "weight": "50g",
+    "lifespan": "6 months",
+    "image": "https://example.com/images/aquafina.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Bisleri",
+    "capacity": "1L",
+    "material": "Plastic",
+    "price": 2.0,
+    "weight": "100g",
+    "lifespan": "1 year",
+    "image": "https://example.com/images/bisleri.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Nalgene",
+    "capacity": "750ml",
+    "material": "BPA-Free Plastic",
+    "price": 10.0,
+    "weight": "120g",
+    "lifespan": "2 years",
+    "image": "https://example.com/images/nalgene.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Hydro Flask",
+    "capacity": "500ml",
+    "material": "Stainless Steel",
+    "price": 25.0,
+    "weight": "350g",
+    "lifespan": "5 years",
+    "image": "https://example.com/images/hydroflask.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "CamelBak",
+    "capacity": "1L",
+    "material": "Stainless Steel",
+    "price": 20.0,
+    "weight": "400g",
+    "lifespan": "4 years",
+    "image": "https://example.com/images/camelbak.jpg"
+  }
+]
